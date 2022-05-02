@@ -26,7 +26,7 @@ class PortfolioApp extends StatelessWidget {
         scaffoldBackgroundColor: Constants.backgroundColor,
         canvasColor: Constants.backgroundColor,
         textTheme: GoogleFonts.poppinsTextTheme(Theme.of(context).textTheme)
-            .apply(bodyColor: Colors.white)
+            .apply(bodyColor: Constants.bodyColor)
             .copyWith(
               bodyText1: TextStyle(color: Constants.bodyColor),
               bodyText2: TextStyle(color: Constants.bodyColor),

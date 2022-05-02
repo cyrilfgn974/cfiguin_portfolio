@@ -1,6 +1,8 @@
 //flutter packages
 import 'package:flutter/material.dart';
 
+import 'package:cfiguin_portfolio/screens/screen_main/components/side_menu.dart';
+
 //utils
 import 'package:cfiguin_portfolio/utils/responsive.dart';
 import 'package:cfiguin_portfolio/utils/constants.dart';
