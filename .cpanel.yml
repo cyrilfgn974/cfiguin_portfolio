@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/gnmc3466/sous_domaine/devPy
+    - export DEPLOYPATH=/home/gnmc3466/sous_domaine/devPy/
     - export DEPLOYPATHtemplates=/home/gnmc3466/sous_domaine/devPy/templates
     - /bin/cp -R build/web $DEPLOYPATHtemplate
     - /bin/cp backend/app.py $DEPLOYPATH
