@@ -1,6 +1,6 @@
-# cfiguin_portfolio
+# Cyril FIGUIN Portfolio
 
-A new Flutter project.
+Nouvelle version de mon Eportfolio qui a été créé avec Flutter (DART)
 
 ## Getting Started
 
