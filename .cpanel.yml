@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/gnmc3466/sous_domaine/developpement/
+    - /bin/cp -R build/web $DEPLOYPATH
