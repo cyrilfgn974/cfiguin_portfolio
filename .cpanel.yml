@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/gnmc3466/sous_domaine/developpement/
+    - export DEPLOYPATH=/home/gnmc3466/sous_domaine/devPy/templates
     - /bin/cp -R build/web $DEPLOYPATH

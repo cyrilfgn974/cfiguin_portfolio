@@ -18,7 +18,7 @@ class DrawHeader extends StatelessWidget {
             Spacer(flex: 2),
             CircleAvatar(
               radius: 50,
-              backgroundImage: ExactAssetImage("images/pdp.jpeg"),
+              backgroundImage: ExactAssetImage("./assets/images/pdp.jpeg"),
             ),
             Spacer(flex: 1),
             Text(

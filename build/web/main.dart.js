@@ -33463,7 +33463,7 @@ A.CN.prototype={
 M(a){var s=null,r=A.a9B(B.L),q=$.Lq(),p=$.a6K(),o=A.aL(a).R8,n=A.dR(o.a),m=A.dR(o.b),l=A.dR(o.c),k=A.dR(o.d),j=A.dR(o.e),i=A.dR(o.f),h=A.dR(o.r),g=A.dR(o.w),f=A.dR(o.x)
 return new A.tc(new A.B3(s),"Cyril Figuin - Portfolio",r.U2(p,q,p,A.YN(A.dR(o.y),A.dR(o.z),A.dR(o.Q),n,m,l,k,j,i,A.dR(o.as),A.dR(o.at),A.dR(o.ax),h,g,f).T1($.a4n()).TW(A.jY(s,s,$.a4n(),s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),A.jY(s,s,$.a4n(),s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))),!1,s)}}
 A.B4.prototype={
-M(a){var s=null,r=t.w,q=a.V(r).f.a.a<=500?2.5:3,p=A.ahL(s,s,new A.qm("images/bg.jpeg",s,s)),o=$.ace(),n=B.d.ag(127.5)
+M(a){var s=null,r=t.w,q=a.V(r).f.a.a<=500?2.5:3,p=A.ahL(s,s,new A.qm("./assets/images/bg.jpeg",s,s)),o=$.ace(),n=B.d.ag(127.5)
 o=o.a
 o=A.j9(s,s,B.x,A.az(n,o>>>16&255,o>>>8&255,o&255),s,s,s,s,s,s,s,s)
 if(a.V(r).f.a.a>=1024){r=A.aL(a).R8.a
@@ -33479,7 +33479,7 @@ M(a){var s=null
 return new A.fv(new A.bd(0,0,0,10),A.a5r(A.a([A.Ex(this.c,A.jY(s,s,$.Lq(),s,s,s,s,s,s,s,s,s,s,s,B.aa,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.Ex(this.d,s,s,s)],t.p),B.e4,B.BC,B.dm),s)}}
 A.Ag.prototype={
 M(a){var s=null,r=$.acf()
-return new A.qk(1.2,A.j9(s,A.zC(A.a([new A.ow(2,s),new A.yZ(new A.ri("images/pdp.jpeg",1,s,s),50,s),new A.ow(1,s),A.Ex("Cyril Figuin",A.aL(a).R8.w,s,s),A.Ex("Ing\xe9nieur Informatique N7 en poste chez CineKlee",A.aL(a).R8.x,B.jx,s),new A.ow(2,s)],t.p),B.by),B.x,r,s,s,s,s,s,s,s,s),s)}}
+return new A.qk(1.2,A.j9(s,A.zC(A.a([new A.ow(2,s),new A.yZ(new A.ri("./assets/images/pdp.jpeg",1,s,s),50,s),new A.ow(1,s),A.Ex("Cyril Figuin",A.aL(a).R8.w,s,s),A.Ex("Ing\xe9nieur Informatique N7 en poste chez CineKlee",A.aL(a).R8.x,B.jx,s),new A.ow(2,s)],t.p),B.by),B.x,r,s,s,s,s,s,s,s,s),s)}}
 A.uJ.prototype={
 M(a){var s=null,r=t.p,q=A.zC(A.a([new A.rH("Localisation","Toulouse (France)",s),new A.rH("Age","22",s)],r),B.by)
 return new A.Ah(A.a9f(!0,A.zC(A.a([new A.Ag(s),A.OX(new A.E0(new A.bd(10,10,10,10),!0,q,s),1)],r),B.by),!0),s)}}
