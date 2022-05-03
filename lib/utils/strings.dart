@@ -5,5 +5,5 @@ class Strings {
   static const headerTitle = "Cyril Figuin";
   static const headerSubTitle =
       "Ingénieur Informatique N7 en poste chez CineKlee";
-  static const projectTitle = "Mes projets";
+  static const projectTitle = "Msses projets";
 }
