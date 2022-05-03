@@ -7,8 +7,12 @@ class Constants {
   static Color bodyColor = Color.fromARGB(255, 252, 252, 252);
   static Color backgroundColor = Color.fromARGB(255, 39, 39, 39);
   static Color drawerHeaderBg = Color.fromARGB(255, 53, 53, 53);
+  static Color cardProjectBg = Color.fromARGB(255, 2, 20, 78);
 
   //dimensions
-  static const maxWidth = 1440.0;
+  static const maxWidth = 1280.0;
   static const padding = 20.0;
+
+  //url
+  static String apiUrl = "http://api.gnmc3466.odns.fr/api";
 }
